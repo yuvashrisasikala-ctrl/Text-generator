@@ -60,4 +60,4 @@ Add screenshots of your application here:
 ## ⭐ Conclusion
 
 The **Text Generator** project provides a simple introduction to building AI-based applications with Python and Streamlit. It can be further improved by adding advanced AI models and additional features.
-# Text-generator
+
