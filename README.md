@@ -1,24 +1,24 @@
-# 📝 Text Generator
+#  Text Generator
 
 A simple and user-friendly **Text Generator web application** built using **Python and Streamlit**.
 The application allows users to enter a topic or prompt and generate text easily.
 
-## 🚀 Features
+##  Features
 
-* 📝 Generate text from a user-provided prompt
-* 🎨 Simple and interactive Streamlit interface
-* ⚡ Fast and easy to use
-* 💻 Beginner-friendly Python project
-* 🌐 Runs as a web application
-* 🔄 Generate different text outputs based on the input
+*  Generate text from a user-provided prompt
+*  Simple and interactive Streamlit interface
+*  Fast and easy to use
+*  Beginner-friendly Python project
+*  Runs as a web application
+*  Generate different text outputs based on the input
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * **Streamlit**
 * **Generative AI / Text Generation**
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Text-Generator/
@@ -28,7 +28,7 @@ Text-Generator/
 └── requirements.txt
 ```
 
-## 💡 How It Works
+##  How It Works
 
 1. Open the Text Generator application.
 2. Enter a topic or prompt in the input box.
@@ -36,11 +36,11 @@ Text-Generator/
 4. The application processes the input.
 5. Generated text is displayed on the screen.
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this project is to demonstrate how **Python and Streamlit** can be used to create a simple interactive text-generation application.
 
-## 📸 Application
+##  Application
 
 Add screenshots of your application here:
 
@@ -48,7 +48,7 @@ Add screenshots of your application here:
 ![Text Generator Screenshot](screenshot.png)
 ```
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Add multiple text-generation models
 * Add text length controls
@@ -57,7 +57,7 @@ Add screenshots of your application here:
 * Improve the user interface
 * Deploy the application online
 
-## ⭐ Conclusion
+##  Conclusion
 
 The **Text Generator** project provides a simple introduction to building AI-based applications with Python and Streamlit. It can be further improved by adding advanced AI models and additional features.
 
